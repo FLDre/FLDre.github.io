@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on 我的全新 Hugo 网站</title>
+    <link>https://FLDre.github.io/network/</link>
+    <description>Recent content in Networks on 我的全新 Hugo 网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://FLDre.github.io/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://FLDre.github.io/network/linux_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://FLDre.github.io/network/linux_network/</guid>
+      <description>字节序 主机字节序 主机字节序是指特定计算机系统或架构使用的字节序。主机字节序有两种主要类型： 小端序(Little-endian) 低位字节存入低</description>
+    </item>
+    
+  </channel>
+</rss>

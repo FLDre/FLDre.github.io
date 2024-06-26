@@ -2,6 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://fldre.github.io/categories/</loc></url><url>
-            <loc>https://fldre.github.io/tags/</loc></url><url>
-            <loc>https://fldre.github.io/</loc></url></urlset>
+            <loc>https://FLDre.github.io/posts/first_post/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
+            <loc>https://FLDre.github.io/posts/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
+            <loc>https://FLDre.github.io/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
+            <loc>https://FLDre.github.io/network/linux_network/</loc></url><url>
+            <loc>https://FLDre.github.io/categories/</loc></url><url>
+            <loc>https://FLDre.github.io/network/</loc></url><url>
+            <loc>https://FLDre.github.io/tags/</loc></url></urlset>
