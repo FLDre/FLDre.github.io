@@ -2,10 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://FLDre.github.io/posts/first_post/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
-            <loc>https://FLDre.github.io/posts/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
-            <loc>https://FLDre.github.io/</loc><lastmod>2024-06-25T21:38:00&#43;08:00</lastmod></url><url>
-            <loc>https://FLDre.github.io/network/linux_network/</loc></url><url>
-            <loc>https://FLDre.github.io/categories/</loc></url><url>
-            <loc>https://FLDre.github.io/network/</loc></url><url>
-            <loc>https://FLDre.github.io/tags/</loc></url></urlset>
+            <loc>https://FLDre.github.io/mdns/</loc><lastmod>2024-07-01T21:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLDre.github.io/posts/</loc><lastmod>2024-07-01T21:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLDre.github.io/</loc><lastmod>2024-07-01T21:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLDre.github.io/network/</loc><lastmod>2024-07-01T21:24:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLDre.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://FLDre.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

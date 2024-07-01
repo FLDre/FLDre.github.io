@@ -2,16 +2,24 @@
     <channel>
         <title>我的全新 Hugo 网站</title>
         <link>https://FLDre.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 25 Jun 2024 21:38:00 &#43;0800</lastBuildDate>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 01 Jul 2024 21:26:03 &#43;0800</lastBuildDate>
             <atom:link href="https://FLDre.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
-    <link>https://FLDre.github.io/posts/first_post/</link>
-    <pubDate>Tue, 25 Jun 2024 21:38:00 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://FLDre.github.io/posts/first_post/</guid>
+    <title>mDNS 协议</title>
+    <link>https://FLDre.github.io/mdns/</link>
+    <pubDate>Mon, 01 Jul 2024 21:26:03 &#43;0800</pubDate>
+    <author>myq</author>
+    <guid>https://FLDre.github.io/mdns/</guid>
     <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Unix 网络编程</title>
+    <link>https://FLDre.github.io/network/</link>
+    <pubDate>Mon, 01 Jul 2024 21:24:08 &#43;0800</pubDate>
+    <author>myq</author>
+    <guid>https://FLDre.github.io/network/</guid>
+    <description><![CDATA[字节序 主机字节序 主机字节序是指特定计算机系统或架构使用的字节序。主机字节序有两种主要类型： 小端序(Little-endian) 低位字节存入低]]></description>
 </item>
 </channel>
 </rss>
